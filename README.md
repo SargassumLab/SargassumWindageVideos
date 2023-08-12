@@ -10,7 +10,11 @@ This repository contains videos of the clumps floating in the tank. Due to file 
 
 ## Downloading the videos
 
-x
+First, [install git](https://github.com/git-guides/install-git). Then, simply run the following command in the directory you wish the videos to be downloaded to:
+
+```
+git clone https://github.com/SargassumLab/SargassumWindageVideos
+```
 
 ## Reference
 
